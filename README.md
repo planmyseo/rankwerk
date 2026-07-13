@@ -306,14 +306,17 @@ Der Audit ist live. Die Landingpage skizziert die produktisierte Vollausbaustufe
 
 ---
 
-## Autor
+## Autoren
 
-**Carlo Krämer** — [CarloMedia](https://www.carlokraemer.com) · [GitHub: planmyseo](https://github.com/planmyseo)
+Entwickelt von
+
+- **Patric** — [paddy-droid](https://github.com/paddy-droid)
+- **Carlo Krämer** — [CarloMedia](https://www.carlokraemer.com) · [planmyseo](https://github.com/planmyseo)
 
 ---
 
 <div align="center">
 
-Gebaut mit dem bewährten Optimierungs-Playbook · © 2026 Rankwerk · made by Carlo
+Gebaut mit dem bewährten Optimierungs-Playbook · © 2026 Rankwerk · Patric & Carlo Krämer
 
 </div>
